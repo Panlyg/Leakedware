@@ -1,2 +1,2 @@
 # Leakedware
-Leakedware Is Repo That Shows Leaked Malwares AND I HATE PANKOZA
+Leakedware Is Repo That Shows Leaked Malwares
